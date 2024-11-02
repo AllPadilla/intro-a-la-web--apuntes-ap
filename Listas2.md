@@ -8,7 +8,5 @@
 1. Julian
 
 ## segunda secuencia
-- Orlando
-- Erick
-- Antonio
-- Yatziri
+
+
